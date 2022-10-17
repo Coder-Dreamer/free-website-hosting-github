@@ -99,7 +99,7 @@ p{
   }
   @media(max-width:500px){
     .container{
-        width: 90%;
+        width: 100%;
        }
        .content_img img{
         width:100%;
